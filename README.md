@@ -1,2 +1,2 @@
 # ForPython1
-This repo contains intermediate python lesson files
+This repo contains intermediate python works
